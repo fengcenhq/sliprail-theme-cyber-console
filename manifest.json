@@ -1,0 +1,9 @@
+{
+  "id": "6b648de7-bdcb-4c05-9bd9-f28ef637d64b",
+  "main": "main.css",
+  "type": "Theme",
+  "preview": "preview.png",
+  "theme": {
+    "appearance": "Dark"
+  }
+}
