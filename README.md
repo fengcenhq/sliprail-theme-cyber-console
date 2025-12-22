@@ -6,7 +6,7 @@ A high-tech dark theme featuring cyan neon glow and futuristic circuit textures.
 
 Click the button below to install this theme directly in Sliprail:
 
-[![Install in Sliprail](https://img.shields.io/badge/Install_in_Sliprail-Click_Here-blue?style=for-the-badge)](https://sliprail.fengcen.io/install-extension?id=6b648de7-bdcb-4c05-9bd9-f28ef637d64b)
+[![Install in Sliprail](https://img.shields.io/badge/Install_in_Sliprail-Click_Here-blue?style=for-the-badge)](https://sliprail.fengcen.io/install?id=6b648de7-bdcb-4c05-9bd9-f28ef637d64b)
 
 **Note:** If Sliprail is not installed on your computer, the button will not work. Please download and install Sliprail from the [official website](https://sliprail.fengcen.io) first.
 
