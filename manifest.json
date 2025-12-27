@@ -1,5 +1,13 @@
 {
   "id": "6b648de7-bdcb-4c05-9bd9-f28ef637d64b",
+  "name": {
+    "en": "Cyber Console",
+    "zh-hans": "赛博控制台"
+  },
+  "description": {
+    "en": "A high-tech dark theme featuring cyan neon glow and futuristic circuit textures. Its design is inspired by advanced command terminals, providing an immersive digital workspace experience.",
+    "zh-hans": "一款充满科技感的深色主题，采用青色霓虹发光边框与电路纹理背景。设计灵感源自未来指挥终端，为您的操作界面打造沉浸式的数字交互体验。"
+  },
   "main": "main.css",
   "type": "Theme",
   "preview": "preview.png",
